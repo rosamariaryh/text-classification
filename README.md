@@ -1,5 +1,6 @@
 # text-classification
 This repository includes work for text classification with transformers. 
+For the data we used, German language models or multilingual language models seem to be the most relevant. Models available here: https://huggingface.co/models
 
 The work is organised in an ipynb format which can be run as a Jupyter Notebook or in Google Colab. 
 Recommended usage is Google Colab, as this allows to use a GPU in the runtime, significantly increasing the training time of the model.
